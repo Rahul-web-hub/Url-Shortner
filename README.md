@@ -15,7 +15,9 @@ A lightweight Flask application that mimics services like Bitly or TinyURL by pr
 * [License](#license)
 
 ---
-
+## Notes & AI Usage
+* I used AI tools sparingly for wording suggestions and to tidy up comments—purely for helpful guidance. All core logic, testing, and design choices were hand-crafted and reviewed manually.
+---
 ## Overview
 This service allows users to:
 
